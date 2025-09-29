@@ -1,18 +1,104 @@
-<h1 align="center">Hi 👋, I'm Abhishek Gupta</h1>
-<h3 align="center">Passionate about Blockchain, AI, Web3, and the Shiba Inu ecosystem Proactively mitigating risks and fortifying environments against diverse cloud security threats Proven expertise in managing AWS, GCP, and VMware, including complex cloud migration strategies Skilled in architecting product frameworks and orchestrating end-to-end deployments from development through production Expert in deploying and scaling microservices architectures, leveraging Docker and Kubernetes for container orchestration Experienced in designing and maintaining modern CI/CD pipelines to streamline integration and accelerate delivery Proficient in Shell scripting, Python, and boto3 for automation and cloud-native development Strong experience with Terraform and Ansible for efficient and automated infrastructure management</h3>
+# Hi there 👋 I'm Abhishek  
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=widdix123&label=Profile%20views&color=0e75b6&style=flat" alt="widdix123" /> </p>
+🚀 **Senior DevSecOps Engineer | Kubernetes | Cloud | Web3 | Automation**  
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=widdix123" alt="widdix123" /></a> </p>
+I’m a **Certified Kubernetes Administrator (CKA)** and **AWS Solutions Architect** with 14+ years of experience designing, securing, and scaling **cloud-native platforms** across **telecom, banking, analytics, and blockchain ecosystems**.  
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+I thrive at the intersection of **Cloud, Security, and Emerging Tech** — with a passion for **Blockchain, AI, Web3, and decentralized ecosystems like Shiba Inu**. My career spans industry leaders (Tech Mahindra, SunGard, Avaya) and innovative startups (Axim Global, FPComplete, Varda, Shiba Inu), where I’ve delivered **resilient infrastructures, cost-optimized multi-cloud systems, and production-grade Kubernetes deployments**.  
+
+---
+
+## 🔑 Key Highlights
+- ✅ Certified **CKA** and **AWS Solutions Architect**  
+- ⚡ 14+ years of experience across **AWS, GCP, and Azure**  
+- ☁️ Expertise in **cloud migrations, multi-cloud architectures, and cost optimization**  
+- 🔐 Strong focus on **DevSecOps and Cloud Security** (Vault, IAM, GuardDuty, Inspector, KMS, Config)  
+- 🛠️ Built and scaled **microservices** with **Kubernetes, EKS, Helm, ArgoCD, Agones**  
+- 🚀 Designed **secure CI/CD pipelines** with Jenkins, GitHub Actions, GitLab, Bamboo, CircleCI  
+- 📊 Implemented modern **observability stacks** (Prometheus, Grafana, Loki, OpenSearch, Datadog)  
+- 📡 Hands-on with **Blockchain/Web3 infra** (Validators, RPC, NFT platforms, Shibarium, Puppynet)  
+- 🖥️ Proficient in **Terraform, Crossplane, Ansible** for IaC and GitOps-driven infra  
+
+---
+
+## 🚀 Skills
+
+**Cloud & DevOps**  
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazonaws&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-%234285F4.svg?logo=googlecloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326ce5.svg?logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-%235835CC.svg?logo=terraform&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-0F1689?logo=helm&logoColor=white)
+![ArgoCD](https://img.shields.io/badge/ArgoCD-ef7b4d?logo=argo&logoColor=white)
+
+**Programming & Scripting**  
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Shell](https://img.shields.io/badge/Shell_Script-121011?logo=gnu-bash&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+
+**CI/CD & Security**  
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/GitLab_CI-FCA121?logo=gitlab&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white)
+![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?logo=sonarqube&logoColor=white)
+![Trivy](https://img.shields.io/badge/Trivy-1904DA?logo=aqua&logoColor=white)
+
+**Monitoring & Observability**  
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white)
+![ELK](https://img.shields.io/badge/ELK-005571?logo=elasticsearch&logoColor=white)
+![Tempo](https://img.shields.io/badge/Tempo-0A0A0A?logo=grafana&logoColor=white)
+
+**Web3 & Blockchain**  
+![Shibarium](https://img.shields.io/badge/Shibarium-FB2E4C?logo=shiba-inu&logoColor=white)
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?logo=ethereum&logoColor=white)
+![Polygon](https://img.shields.io/badge/Polygon-8247E5?logo=polygon&logoColor=white)
+![Metamask](https://img.shields.io/badge/Metamask-F6851B?logo=metamask&logoColor=white)
+
+---
+
+## 🌟 Featured Projects
+
+### 🔒 DevSecOps Projects
+
+📌 **Terraform AWS EKS Modules**  
+Developed production-ready Terraform modules with policy-as-code, automated vulnerability scanning, and cost governance, ensuring secure and compliant Kubernetes environments.  
+
+📌 **Secure CI/CD Pipelines**  
+Implemented GitOps-driven pipelines with container scanning (Trivy, SonarQube), policy enforcement (OPA, Kyverno), secrets management, and audit logging to strengthen supply-chain security.  
+
+📌 **Kube360 (FPComplete)**  
+Contributed to a Kubernetes management platform integrating Istio, ArgoCD, Velero, and Loki; enhanced observability, automated backups, and security controls for enterprise workloads.  
+
+📌 **Financial Services Infrastructure (Dixio)**  
+Automated SWIFT API and ECS microservices deployments with Terraform; implemented secure IAM, encryption, and compliance controls to meet financial regulations.  
+
+---
+
+### 🌐 Web3 Projects
+
+📌 **Shibarium & Puppynet Blockchain Infrastructure**  
+Engineered and secured L2 blockchain infrastructure by deploying validators, sentry, and RPC nodes with high availability, DoS protection, and monitoring for Web3 applications.  
+
+📌 **Metaverse Gaming on EKS**  
+Designed GPU-powered EKS clusters with Agones & Fleet Autoscaler for scalable, low-latency multiplayer gaming; integrated CI/CD pipelines and security hardening for production-ready gaming workloads.  
+
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=widdix123&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=widdix123&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://circleci.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg" alt="circleci" width="40" height="40"/> </a> <a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.elastic.co" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nativescript.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/nativescript.svg" alt="nativescript" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=widdix123&show_icons=true&locale=en&layout=compact" alt="widdix123" /></p>
+## 📫 Connect With Me
+- 💼 [LinkedIn](https://www.linkedin.com/in/abhishek-gupta-33018046/)  
+- ✉️ zone.abhishek@gmail.com
 
-- ⚡ Fun fact: ...
--->
+---
+⭐️ From [widdix123](https://github.com/widdix123)
