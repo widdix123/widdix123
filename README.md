@@ -1,8 +1,8 @@
 # Hi there 👋 I'm Abhishek  
 
-🚀 **Senior DevSecOps Engineer | Kubernetes | Cloud | Web3 | Automation**  
+🚀 **Senior DevSecOps Tech Lead | Kubernetes | Cloud | Web3 | Automation**  
 
-I’m a **Certified Kubernetes Administrator (CKA)** and **AWS Solutions Architect** with 14+ years of experience designing, securing, and scaling **cloud-native platforms** across **telecom, banking, analytics, and blockchain ecosystems**.  
+I’m a **Certified Kubernetes Administrator (CKA)** and **AWS Solutions Architect** with 15+ years of experience designing, securing, and scaling **cloud-native platforms** across **telecom, banking, analytics, and blockchain ecosystems**.  
 
 I thrive at the intersection of **Cloud, Security, and Emerging Tech** — with a passion for **Blockchain, AI, Web3, and decentralized ecosystems like Shiba Inu**. My career spans industry leaders (Tech Mahindra, SunGard, Avaya) and innovative startups (Axim Global, FPComplete, Varda, Shiba Inu), where I’ve delivered **resilient infrastructures, cost-optimized multi-cloud systems, and production-grade Kubernetes deployments**.  
 
@@ -73,7 +73,25 @@ Implemented GitOps-driven pipelines with container scanning (Trivy, SonarQube), 
 Contributed to a Kubernetes management platform integrating Istio, ArgoCD, Velero, and Loki; enhanced observability, automated backups, and security controls for enterprise workloads.  
 
 📌 **Financial Services Infrastructure (Dixio)**  
-Automated SWIFT API and ECS microservices deployments with Terraform; implemented secure IAM, encryption, and compliance controls to meet financial regulations.  
+Automated SWIFT API and ECS microservices deployments with Terraform; implemented secure IAM, encryption, and compliance controls to meet financial regulations. 
+
+- Architected UAE-region AWS infrastructure aligned with regional financial regulations  
+- Enforced encryption-at-rest (KMS) and encryption-in-transit (TLS)  
+- Implemented least-privilege IAM and secure VPC segmentation  
+- Led FinOps initiatives including tagging, budget controls, and cost governance  
+- Coordinated regional penetration testing and remediated security findings  
+- Integrated GuardDuty, Inspector, AWS Config, and centralized logging for compliance monitoring  
+- Automated infrastructure provisioning using Terraform with policy guardrails
+
+📌 **SPARE – Secure Infrastructure & Regional Compliance (Saudi Arabia)**  
+Led secure cloud architecture and access governance for regulated workloads requiring strict Saudi data residency controls.
+
+- Designed infrastructure ensuring **data residency within Saudi Arabia** in compliance with regional regulatory requirements  
+- Implemented secure backup strategy with replication and integration to **Oracle environments** for disaster recovery and business continuity  
+- Deployed and configured **Teleport (PAM)** to enforce secure access controls, session recording, audit logging, and privileged access management  
+- Integrated **SSO using MiniOrange**, enabling centralized identity management and secure authentication across cloud platforms  
+- Strengthened access governance using RBAC, least-privilege IAM policies, and continuous monitoring controls  
+- Enabled centralized logging, monitoring, and audit visibility for compliance reporting  
 
 ---
 
