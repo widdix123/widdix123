@@ -2,7 +2,7 @@
 
 🚀 **Senior DevSecOps Tech Lead | Kubernetes | Cloud | Web3 | Automation**  
 
-I’m a **Certified Kubernetes Administrator (CKA)** and **AWS Solutions Architect** with 15+ years of experience designing, securing, and scaling **cloud-native platforms** across **telecom, banking, analytics, and blockchain ecosystems**.  
+I’m a **Certified Kubernetes Administrator (CKA)** and **AWS Solutions Architect** with 16+ years of experience designing, securing, and scaling **cloud-native platforms** across **telecom, banking, analytics, and blockchain ecosystems**.  
 
 I thrive at the intersection of **Cloud, Security, and Emerging Tech** — with a passion for **Blockchain, AI, Web3, and decentralized ecosystems like Shiba Inu**. My career spans industry leaders (Tech Mahindra, SunGard, Avaya) and innovative startups (Axim Global, FPComplete, Varda, Shiba Inu), where I’ve delivered **resilient infrastructures, cost-optimized multi-cloud systems, and production-grade Kubernetes deployments**.  
 
@@ -10,7 +10,7 @@ I thrive at the intersection of **Cloud, Security, and Emerging Tech** — with 
 
 ## 🔑 Key Highlights
 - ✅ Certified **CKA** and **AWS Solutions Architect**  
-- ⚡ 14+ years of experience across **AWS, GCP, and Azure**  
+- ⚡ 16+ years of experience across **AWS, GCP, and Azure**  
 - ☁️ Expertise in **cloud migrations, multi-cloud architectures, and cost optimization**  
 - 🔐 Strong focus on **DevSecOps and Cloud Security** (Vault, IAM, GuardDuty, Inspector, KMS, Config)  
 - 🛠️ Built and scaled **microservices** with **Kubernetes, EKS, Helm, ArgoCD, Agones**  
